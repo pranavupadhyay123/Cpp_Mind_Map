@@ -14,7 +14,7 @@ We greatly appreciate your interest in contributing to this mindmap. By adding y
 
 2. **Clone Your Fork**: Clone the forked repository to your local machine using the following command:
    ```
-   git clone https://github.com/your-username/cplusplus-mindmap.git
+   git clone https://github.com/pranavupadhyay123/Cpp_Mind_Map.git
    ```
 
 3. **Make Your Edits**: Open the mindmap file (e.g., `mindmap.png`) using your preferred image editor or software. Add new nodes, expand on existing topics, and make improvements as needed.
